@@ -1,6 +1,6 @@
 # Django Blog Site
 
-[Django Blog Live Site](https://8000-llancruzz-djangoblog-hoiguiihv19.ws-eu80.gitpod.io/)
+[Django Blog Live Site](https://codestar-django.herokuapp.com/)
 
 ## Table of Contents
 
